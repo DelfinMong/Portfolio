@@ -1,0 +1,16 @@
+
+
+#container{
+  background-color: blue; 
+}
+
+#main{
+  font-size: 30px;
+  width: 1150px;
+  border: red solid;
+  background-color: yellow;
+  margin: auto;
+}
+
+
+
